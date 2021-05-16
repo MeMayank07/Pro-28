@@ -21,7 +21,7 @@ function setup() {
 }
 
 function draw(){
-    background("lightblue");
+    background("blue");
     Engine.update(engine);
     
     paper.display();
